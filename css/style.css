@@ -155,8 +155,9 @@
 	}
 
 	.btn-send:hover{
-		background-color: #000;
+		background-color: #a1ce52;
 		color: #fff;
+		font-weight:900;
 	}
 
 	.btn-readmore{
@@ -1113,5 +1114,11 @@
 	padding-bottom: 120px;
 }
 
-.portfolio-overlay em {
+.fa-discript {
+	color: #fff;
+	/*padding-top: 5em;
+	padding-right: 1em;	
+	padding-left: 2em;
+	margin-top:auto;*/
+}
 	

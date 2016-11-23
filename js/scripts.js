@@ -164,9 +164,9 @@
 
 		$(".st-testimonials").owlCarousel({
 		singleItem:true,
-		lazyLoad : true,
+		lazyLoad: true,
 		pagination:false,
-		navigation : false,
+		navigation: false,
 		autoPlay: true,
 		});
 
